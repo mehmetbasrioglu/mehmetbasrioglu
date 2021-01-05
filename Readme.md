@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/github/followers/mhmtbsrglu0?label=Follow%20me%20on%20github&style=for-the-badge" />
+
+
 ### <2020/> <2021>  🎉
 
 ### Hi there, I'm Mehmet - Basrioğlu [website] 👋
@@ -56,8 +59,11 @@
 
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
+<img align="left" alt="Postman Api" width="26px" src="https://user-images.githubusercontent.com/75476607/103651748-1b225400-4f73-11eb-8a7c-29b339de3a25.png" />
 
+<img align="left" alt="Stackoverflow" width="26px" src="https://user-images.githubusercontent.com/75476607/103651762-1d84ae00-4f73-11eb-976a-40e2eb98fd6b.png" />
 
+<img align="left" alt="ES6" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
 
 <br />
 <br />
