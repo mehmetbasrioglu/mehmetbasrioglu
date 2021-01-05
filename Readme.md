@@ -1,4 +1,4 @@
-
+### <2020/> <2021>  🎉
 
 ### Hi there, I'm Mehmet - Basrioğlu [website] 👋
 
@@ -6,7 +6,7 @@
 ## I'm a Student, Developer , I'm studying at Istanbul Rumeli University!!
 
 - 🌱 I'm currently learning everything 🤣 and i want to learn more
-- ⚡ Fun fact: I love to draw and play guitar / drums & Relax Music & Read Books 😊 I'm very curious for everything.
+- ⚡ Fun fact: I love to draw and play guitar / drums & Relax Music &  Discover & Travel & Pets &  Read Books 😊 I'm very curious for everything.
 
 
 ### Connect with me:
