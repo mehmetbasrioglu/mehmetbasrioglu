@@ -1,7 +1,9 @@
-<img src="https://img.shields.io/github/followers/mhmtbsrglu0?color=000000&label=Follow%20me%20on%20github&logo=Github&logoColor=000000&style=for-the-badge" />
 
 
 ### <2020/> <2021>  🎉
+
+
+<img src="https://img.shields.io/github/followers/mhmtbsrglu0?color=000000&label=Follow%20me%20on%20github&logo=Github&logoColor=000000&style=for-the-badge" />
 
 ### Hi there, I'm Mehmet - Basrioğlu [website] 👋
 
