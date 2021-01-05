@@ -87,11 +87,26 @@
 
 </details>
 
+<details>
+  <summary>Music</summary>
+
+ 
+  <a href="https://www.youtube.com/watch?v=Qzw6A2WC5Qo"> Skillet Feel Invincible </a>
+  <br/>
+    <a href="https://www.youtube.com/watch?v=nSzDOKA4Fh0"> maNga Fly To Stay Alive </a>
+      <br/>
+        <a href="https://www.youtube.com/watch?v=FVY4be1yFFY"> maNga Dursun Zaman </a>
+        <br/>
+        <a href="https://www.youtube.com/watch?v=dfk6i41GCNo"> Fall Out Boy Centuries </a>
+  </details>
+  <br/>
+
 
 ### Quoting:
 <p align="center">
 
 <img  alt="Visual Studio Code" width="250px" src="https://user-images.githubusercontent.com/75476607/103645544-37b98e80-4f69-11eb-8393-e5bb40e9f4bd.png" />
+
 
 <br/>
 You can do anything! Just get up and do it, follow your dreams
