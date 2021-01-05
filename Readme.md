@@ -95,7 +95,7 @@
   <br/>
     <a href="https://www.youtube.com/watch?v=nSzDOKA4Fh0"> maNga Fly To Stay Alive </a>
       <br/>
-        <a href="https://www.youtube.com/watch?v=FVY4be1yFFY"> maNga Dursun Zaman </a>
+        <a href="https://www.youtube.com/watch?v=mk48xRzuNvA">The Script - Hall of Fame (Official Video) ft. will.i.am </a>
         <br/>
         <a href="https://www.youtube.com/watch?v=dfk6i41GCNo"> Fall Out Boy Centuries </a>
   </details>
