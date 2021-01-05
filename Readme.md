@@ -87,6 +87,7 @@
 
 </details>
 <br />
+<br />
 <details>
   <summary>Music</summary>
 
@@ -100,7 +101,7 @@
         <a href="https://www.youtube.com/watch?v=dfk6i41GCNo"> Fall Out Boy Centuries </a>
   </details>
   <br/>
-
+<br />
 
 ### Quoting:
 <p align="center">
