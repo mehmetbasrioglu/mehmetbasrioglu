@@ -77,15 +77,7 @@
 
 
 
-### Quoting:
-<p align="center">
-
-<img  alt="Visual Studio Code" width="250px" src="https://user-images.githubusercontent.com/75476607/103645544-37b98e80-4f69-11eb-8393-e5bb40e9f4bd.png" />
-
-<br/>
-You can do anything! Just get up and do it, follow your dreams
 
 
-</p>
 [website]: https://github.com/mhmtbsrglu0
 [instagram]: https://www.instagram.com/mhmtbsrglu/
