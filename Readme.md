@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Mehmet - Basrioğlu [website] 👋 / 🎄🎉 <2020/> <2021>  🎉🎄
+### Hi there, I'm Mehmet - Basrioğlu [website] 
 
 
 ## I'm a Student, Developer
@@ -14,9 +14,7 @@
 [<img align="left" alt="mhmtbsrglu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<audio controls="controls">
-  <source src="http://translate.google.com/translate_tts?tl=en&q=Hello%2C+World" type="audio/mpeg">
-</audio>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -84,19 +82,6 @@
 
 </details>
 <br />
-
-<details>
-  <summary>Music</summary>
-
- 
-  <a href="https://www.youtube.com/watch?v=Qzw6A2WC5Qo"> Skillet Feel Invincible </a>
-  <br/>
-    <a href="https://www.youtube.com/watch?v=nSzDOKA4Fh0"> maNga Fly To Stay Alive </a>
-      <br/>
-        <a href="https://www.youtube.com/watch?v=mk48xRzuNvA">The Script - Hall of Fame (Official Video) ft. will.i.am </a>
-        <br/>
-        <a href="https://www.youtube.com/watch?v=dfk6i41GCNo"> Fall Out Boy Centuries </a>
-  </details>
   <br/>
 
 
