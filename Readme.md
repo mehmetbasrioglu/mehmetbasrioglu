@@ -78,7 +78,7 @@
   <summary>📊 GitHub Stats</summary>
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mhmtbsrglu0&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mhmtbsrglu&show_icons=true&hide_border=true" />
 
 </details>
 <br />
@@ -99,5 +99,5 @@ You can do anything! Just get up and do it, follow your dreams
 
 
 
-[website]: https://github.com/mhmtbsrglu0
+[website]: https://github.com/mhmtbsrglu
 [instagram]: https://www.instagram.com/mhmtbsrglu/
