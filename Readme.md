@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mhmtbsrglu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mehmetbasrioglu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -78,7 +78,7 @@
   <summary>📊 GitHub Stats</summary>
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mhmtbsrglu&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mehmetbasrioglu&show_icons=true&hide_border=true" />
 
 </details>
 <br />
