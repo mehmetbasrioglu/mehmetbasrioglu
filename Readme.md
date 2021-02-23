@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetbasrioglu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetbasrioglu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetbasrioglu" alt="mehmetbasrioglu" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/mehmetbasrioglu](https://github.com/mehmetbasrioglu)
 
 - ⚡ Fun fact **I love to draw and play guitar / drums & Relax Music & Discover & Travel & Pets & Read Books 😊 I'm very curious for everything.**
