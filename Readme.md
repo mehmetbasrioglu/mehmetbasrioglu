@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/75476607/110051432-e78f5a80-7d66-11eb-865c-33d152000220.gif"/></p>
+<p align="center"><img style="border-radius: 50%;" height="250" width="800"  src="https://user-images.githubusercontent.com/75476607/118416920-8f57cb80-b6ba-11eb-90e1-137685af63d7.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mehmet Basrioğlu</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetbasrioglu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetbasrioglu" /> </p>
