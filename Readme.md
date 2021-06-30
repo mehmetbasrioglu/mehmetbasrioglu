@@ -21,16 +21,6 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehmetbasrioglu&row=1&column=8&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">Streak etc..</h3>
-
-<div align="center">
-  
-  
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehmetbasrioglu&hide_border=true)](https://git.io/streak-stats)
-  
-  
-  </div>
 
 
 
